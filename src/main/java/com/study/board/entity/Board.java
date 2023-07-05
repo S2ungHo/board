@@ -14,4 +14,7 @@ public class Board {
     private Integer id; //mysql 형식에 맞게
     private String title;
     private String content;
+    private String filename;
+    private String filepath;
+
 }
